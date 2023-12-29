@@ -58,3 +58,7 @@ export const updateSearchParams = (type: string, value: string) => {
     return newPathname
 }
 
+export interface HomeProps {
+    searchParams: FilterProps;
+  }
+
