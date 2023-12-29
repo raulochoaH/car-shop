@@ -1,5 +1,5 @@
 import Hero from './Hero';
-import CustomBottom from './CustomButton'
+import CustomButton from './CustomButton'
 import Navbar from './Navbar'
 import Footer from './Footer'
 import SearchBar from './SearchBar'
@@ -10,7 +10,7 @@ import CarDetails from './CarDetails'
 
 export {
     Hero,
-    CustomBottom,
+    CustomButton,
     Navbar,
     Footer,
     SearchBar,
